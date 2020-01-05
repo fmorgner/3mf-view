@@ -1,0 +1,2 @@
+[requires]
+newtype/[~=1.0]
